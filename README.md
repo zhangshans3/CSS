@@ -19,4 +19,4 @@ CSS的继承：字标记会继承父标记的所有风格样式，并可以在�
 7.英文字母大小写转化：text-transform：capitalize 首字母大写  uppercase 所有字母均转换为大写  lowercase为小写
 #### 段落文字
 1.段落水平对其方式：text-align：left/right/center/justify(两端对齐)
-2.段落的垂直对齐方式：ver 
+2.段落的垂直对齐方式：verch-align
