@@ -24,3 +24,5 @@ CSS的继承：字标记会继承父标记的所有风格样式，并可以在�
 4.字间距：letter-spacing：pt/em
 5.首字放大：为首字设置span标签，单独设置span标签的属性
 #### 图片样式
+1.图片边框：border
+2.图片缩放：width，height
